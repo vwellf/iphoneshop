@@ -1,0 +1,27 @@
+.block-1 {
+    background-color: rgba(255, 255, 255, 1);
+}
+
+.block-2 {
+    background-color: rgba(183, 207, 234, 0.8);
+}
+
+.block-3 {
+    background-color: rgba(135, 175, 221, 0.8);
+}
+
+.block-4 {
+    background-color: rgba(109, 149, 194, 0.8);
+}
+
+.block-5 {
+    background-color: rgba(71, 122, 180, 0.8);
+}
+
+.block-6 {
+    background-color: rgba(37, 106, 185, 0.8);
+}
+
+.number {
+    text-align: center;
+}

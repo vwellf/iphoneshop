@@ -1,0 +1,21 @@
+.size {
+    width: 100%;
+}
+
+.red::first-letter {
+    color: red;
+}
+
+.card {
+    border: none;
+}
+
+.card:hover {
+    box-shadow: 12px 12px 12px 12px rgba(0, 0, 255, .2);
+    transition: 1s;
+    border-radius: 8px;
+}
+
+.rad:hover {
+    color: red;
+}
